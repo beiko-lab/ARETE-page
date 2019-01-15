@@ -1,1 +1,12 @@
-theme: jekyll-theme-slate
+# Site settings
+title: ARETE
+email: beiko@cs.dal.ca
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "beiko-lab.github.io/ARETE-page" # the base hostname & protocol for your site
+
+#twitter_username: 
+github_username: beiko-lab
+
+# Build settings
+markdown: kramdown
